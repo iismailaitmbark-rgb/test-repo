@@ -1,0 +1,13 @@
+Test Repository Notes
+=====================
+
+This repository contains sample files for testing GitHub functionality.
+
+TODO:
+- Test git commands
+- Practice pull requests
+- Explore GitHub CLI features
+- Learn version control workflows
+
+Created: 2026-05-24
+Status: Active

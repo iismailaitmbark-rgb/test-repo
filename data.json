@@ -1,0 +1,15 @@
+{
+  "name": "Test Repository",
+  "version": "1.0.0",
+  "description": "A sample JSON file for testing",
+  "features": [
+    "GitHub CLI integration",
+    "Sample files",
+    "Version control demo"
+  ],
+  "metadata": {
+    "created": "2026-05-24",
+    "author": "Claude",
+    "purpose": "Testing"
+  }
+}
